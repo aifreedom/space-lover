@@ -20,7 +20,7 @@ No options, no additional database inserts, no stupid banners and shitty ads, in
 
 無選項、無 MySQL 插入，無廣告，安裝即用。
 
-覺得這招治標不治本？也可以試試 [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)，讓你的客戶／合作夥伴學會如何正確的排版。
+覺得這招治標不治本？也可以試試 [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) ，讓你的客戶／合作夥伴學會如何正確的排版。
 
 Before:
 
